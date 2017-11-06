@@ -1,5 +1,5 @@
 {
-  "name": "photo2icon",
+  "name": "photohashtag",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doniarobinson/photo2icon.git"
+    "url": "git+https://github.com/doniarobinson/photohashtag.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/doniarobinson/photo2icon/issues"
+    "url": "https://github.com/doniarobinson/photohashtag/issues"
   },
-  "homepage": "https://github.com/doniarobinson/photo2icon#readme",
+  "homepage": "https://github.com/doniarobinson/photohashtag#readme",
   "dependencies": {
     "adj-noun": "^0.1.1",
     "aylien_textapi": "^0.6.0",

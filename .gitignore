@@ -3,5 +3,5 @@ tmp/*
 !tmp/.gitkeep 
 config-private.js
 npm-debug.log
-photo2icon.sublime-project
-photo2icon.sublime-workspace
+photo.sublime-project
+photo.sublime-workspace
