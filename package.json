@@ -1,0 +1,26 @@
+{
+  "name": "photo2icon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doniarobinson/photo2icon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doniarobinson/photo2icon/issues"
+  },
+  "homepage": "https://github.com/doniarobinson/photo2icon#readme",
+  "dependencies": {
+    "adj-noun": "^0.1.1",
+    "aylien_textapi": "^0.6.0",
+    "express": "^4.16.2",
+    "gettyimages-api": "^2.2.0"
+  }
+}
